@@ -12,6 +12,6 @@
 
 }
 
--(UIQuery *)delete;
+-(void)delete;
 
 @end
